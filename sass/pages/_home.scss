@@ -41,7 +41,7 @@
     $color-primary-light,
     $color-primary-dark
   );
-  background-repeat: no-repeat;
+  // background-repeat: no-repeat;
 }
 
 .book {
@@ -52,8 +52,8 @@
       transparent 50%
     ),
     url(../img/nat-10.jpg);
-  background-repeat: no-repeat;
-  background-size: 100%;
+  // background-repeat: no-repeat;
+  background-size: cover;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba($color-black, 0.2);
 
